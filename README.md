@@ -1,6 +1,9 @@
 # NLPDatabase
 
 This repository contains work in progress code for using NLP to query a database.
+See Code_Tutorial for more information on how to set up the code.
+
+Make sure to replace the api keys and passwords.
 
 ## DB-data-creation.ipynb
 Notebook for generating cluster csv files.
