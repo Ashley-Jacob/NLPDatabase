@@ -2,7 +2,7 @@
 
 This repository contains work in progress code for using NLP to query a database.
 
-## DB_data_creation.ipynb
+## DB-data-creation.ipynb
 Notebook for generating cluster csv files.
 
 ## sql.py
